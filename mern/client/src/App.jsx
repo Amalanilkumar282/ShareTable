@@ -27,7 +27,7 @@ function App() {
               <Header id="header" />
               <WhatWeDo id="whatwedo" />
               <Info />
-              <Footer />
+              <Footer/>
             </>
           }
         />
